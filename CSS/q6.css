@@ -1,0 +1,16 @@
+.t1 td,
+.t1 th
+.t1 tr{
+    border:2px solid green;
+ border-style: solid green;
+ border-collapse: collapse;
+}
+table{
+    border:2px solid green;
+}
+
+.tr{
+    background-color: limegreen;
+    color: linen;
+}
+

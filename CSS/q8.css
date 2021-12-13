@@ -1,0 +1,35 @@
+.a #id1,
+
+.a #id2,
+
+.a #id3{
+
+    border-style: solid;
+
+    width: 10%;
+
+    padding: 2px;
+
+    background-color: rgb(184, 255, 255);
+
+}
+
+.a #id1{
+
+   
+
+    border-width: thick;
+
+}
+
+.a #id2{
+
+    border-width: medium;
+
+}
+
+.a #id3{
+
+    border-width: thin;
+
+}

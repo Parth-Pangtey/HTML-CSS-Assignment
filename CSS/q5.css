@@ -1,0 +1,6 @@
+.t th,
+.t td,
+.t table{
+    border-style: solid;
+    border-collapse: collapse;
+}
